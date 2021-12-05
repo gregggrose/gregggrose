@@ -1,16 +1,16 @@
-### Hi there 👋
+# Gregg Grose
 
-<!--
-**gregggrose/gregggrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my GitHub profile was established to help with tutorials and learn GitHub/Markdown. Eventually, it will become a showcase of my knowledge and skills.
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+    - [Email me](mailto:gregg.grose@gmail.com?subject=Hello%20from%20GitHub!)
+	- [LinkedIn](https://www.linkedin.com/in/gregg-grose-09014b24/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I live near Lake Superior and am fortunate to be able to walk the shore, finding beach glass along the way. I'm slightly colorblind and this may help differentiate glass from rock.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning more about:
+- Online first documentation
+- Semantic HTML & Accessibility
+- JavaScript/Node
+- Dynamic webpages
+- Database querying
