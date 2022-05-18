@@ -1,6 +1,6 @@
 # Gregg Grose
 
-Hello, my GitHub profile was established to help with tutorials and learn GitHub/Markdown. Eventually, it will become a showcase of my knowledge and skills.
+Hello, my GitHub profile was established to help with tutorials and learn GitHub/Markdown. Eventually, it will showcase my knowledge and skills.
 
 - 📫 How to reach me:
     - [Email me](mailto:gregg.grose@gmail.com?subject=Hello%20from%20GitHub!)
@@ -9,8 +9,8 @@ Hello, my GitHub profile was established to help with tutorials and learn GitHub
 - ⚡ Fun fact: I live near Lake Superior and am fortunate to be able to walk the shore, finding beach glass along the way. I'm slightly colorblind and this may help differentiate glass from rock.
 
 ## Currently learning more about:
-- Online first documentation
+- Docs as code approach
 - Semantic HTML & Accessibility
-- JavaScript/Node
+- JavaScript
 - Dynamic webpages
 - Database querying
